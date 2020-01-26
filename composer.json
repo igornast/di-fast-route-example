@@ -2,7 +2,7 @@
     "name": "igornast/di-fast-route-example",
     "type": "project",
     "description": "Example project with php-di and fast-route packages",
-    "keywords": ["php-di", "fast-route"],
+    "keywords": ["php-di", "fast-route", "http", "relay","psr-7", "psr-15", "psr-17"],
     "license": "MIT",
     "authors": [
         {
