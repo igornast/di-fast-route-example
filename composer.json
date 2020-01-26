@@ -1,5 +1,5 @@
 {
-    "name": "igor/di-fast-route-example",
+    "name": "igornast/di-fast-route-example",
     "type": "project",
     "description": "Example project with php-di and fast-route packages",
     "keywords": ["php-di", "fast-route"],
